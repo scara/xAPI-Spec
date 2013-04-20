@@ -12,7 +12,8 @@
 	*	2.1.	[ADL's Role in the Experience API](#adlrole)  
  	*	2.2.	[Contributors](#contributors)
  		*	2.2.1.	[Working Group Participants](#wg)  
-		*	2.2.2.	[Requirements Gathering Participants](#reqparticipants)  
+		*	2.2.2.	[GitHub Participants](#githubwg)  
+		*	2.2.3.	[Requirements Gathering Participants](#reqparticipants)  
 *	3.0.	[Definitions](#defintions)  
 *	4.0.	[Statement](#statement)  
     *	4.1.	[Statement Properties](#stmtprops)  
@@ -152,7 +153,7 @@ Director, ADL Initiative
 OSD, Training Readiness & Strategy (TRS)  
 
 <a name="wg"/>
-### 2.2.1 Working Group Participants  
+#### 2.2.1 Working Group Participants  
 <table>
 	<tr><th>Name:</th><th>Organization:</th></tr>
 	<tr><td>Aaron Silvers</td><td>ADL</td></tr>
@@ -215,8 +216,14 @@ OSD, Training Readiness & Strategy (TRS)
 	<tr><td>Tom Creighton</td><td>ADL</td></tr>
 	<tr><td>Walt Grata</td><td>ADL</td></tr>
 </table> 
+<a name="githubwg"/>
+#### 2.2.2 GitHub Participants  
+<table>
+	<tr><th>Name:</th><th>Organization:</th></tr>
+	<tr><td>Matteo Scaramuccia</td><td></td></tr>
+</table>
 <a name="reqparticipants"/> 
-#### 2.2.2 Requirements Gathering Participants  
+#### 2.2.3 Requirements Gathering Participants  
 In collection of requirements for the Experience API, many people and 
 organizations provided invaluable feedback to the Sharable Content Object
 Reference Model (SCORM®), distributed learning efforts, and learning technology
